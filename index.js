@@ -1,4 +1,5 @@
-import chalk from 'chalk';
+let myUnusedVariable = 10; 
 
-console.log(chalk.blue('It Works'));
-
+if (myUnusedVariable == 10) {
+  console.log("This is a test");
+}
