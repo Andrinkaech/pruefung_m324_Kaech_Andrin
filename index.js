@@ -1,5 +1,10 @@
-const myVariable = 10; 
+const myVariable = 10;
 
-if (myVariable === 10) {
-  console.log("This is a test");
+if (
+  myVariable ===
+  10
+) {
+  console.log(
+    'This is a test',
+  );
 }
